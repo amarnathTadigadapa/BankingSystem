@@ -1,0 +1,5 @@
+com\group12\controller\IndexController.class
+com\group12\config\SpringBootWebApplication.class
+com\group12\models\Customer.class
+com\group12\dao\CustomerDAO.class
+com\group12\config\MvcConfiguration.class
